@@ -1,6 +1,5 @@
-### Hi there 👋
-
 <!--
+### Hi there 👋
 **anosidium/anosidium** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
@@ -14,3 +13,12 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+###
+
+### A macOS and iOS Developer based in London, England, UK  
+Currently developing [HacKit](https://apps.apple.com/gb/app/hackit/id1549557075?mt=12), a native macOS Cocoa app for reading Hacker News.  
+Has published two iPhone apps, [AirStudy](https://apple.co/3obAYwP) and [GetCertified](https://apple.co/3o9DAvr).  
+And seeking employment as a macOS or iOS developer, open to relocation and can work remotely.
+
+HacKit can be downloaded on the [Mac App Store.](https://apps.apple.com/gb/app/hackit/id1549557075?mt=12)
