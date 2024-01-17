@@ -16,9 +16,8 @@ Here are some ideas to get you started:
 
 ###
 
-### A Mac and iOS Developer based in London, England, UK  
-Wrote [HacKit](https://apps.apple.com/app/id1549557075), a native macOS Cocoa app for reading Hacker News.  
-Has published two iPhone apps, [AirStudy](https://apps.apple.com/app/id1522666005) and [GetCertified](https://apps.apple.com/app/id1523119493).  
-And seeking opportunities as a Mac or iOS developer, open to remote, hybrid and possible relocation.
+### A Mac and iOS Developer based in London, England, UK
 
-HacKit can be downloaded on the [Mac App Store](https://apps.apple.com/app/id1549557075).
+Published [HacKit](https://apps.apple.com/app/id1549557075), a native Mac Cocoa app for reading [Hacker News](https://news.ycombinator.com) and also published iOS apps: [AirStudy](https://apps.apple.com/app/id1522666005) and [GetCertified](https://apps.apple.com/app/id1523119493). Currently developing another Mac app, Oliphaunt, a [Mastodon](https://joinmastodon.org) client, which is available on [TestFlight](https://testflight.apple.com/join/QLqIRNwe).
+
+Skilled in `Swift`, `AppKit` (`Cocoa`), `UIKit` (`Cocoa Touch`) and `SwiftUI`. And seeking opportunities as a Mac or iOS developer, open to remote, hybrid and possible relocation.
